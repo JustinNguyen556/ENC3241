@@ -1,0 +1,3 @@
+# Jekyll settings for GitHub Pages
+markdown: kramdown
+# Use the default layout in _layouts for pages that specify layout: default
