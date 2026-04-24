@@ -5,4 +5,4 @@ title: Instructions
 
 # Instructions
 
-[Paste your instructions here]
+[How to Install Steam](https://github.com/user-attachments/files/27039051/How.to.Install.Steam.Revised.pdf)
